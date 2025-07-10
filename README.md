@@ -28,11 +28,11 @@ A fun terminal game where:
 - IntelliJ IDEA / VS Code (Recommended IDEs)
 - Command Line Interface
 
-##Internship Acknowledgment**
+## Internship Acknowledgment
 
 These projects were created as part of my Java Development Internship at Oasis Infobyte, where I gained hands-on experience in developing interactive Java applications.
 
-##Author
+## Author
 
 Anubhav Singh
 🌐 LinkedIn - https://www.linkedin.com/in/anubhav-singh-36748934b/
