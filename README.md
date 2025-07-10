@@ -34,6 +34,6 @@ These projects were created as part of my Java Development Internship at Oasis I
 
 ## Author
 
-Anubhav Singh
-🌐 LinkedIn - https://www.linkedin.com/in/anubhav-singh-36748934b/
+**Anubhav Singh**<br>
+🌐 LinkedIn - https://www.linkedin.com/in/anubhav-singh-36748934b/<br>
 📧 Email - anubhavsingh9412@gmail.com
